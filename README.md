@@ -8,8 +8,7 @@ Soy una estudiante de **ciberseguridad** y programación con interés en **Bases
 - 🔹 Desarrollo de aplicaciones con **Dart y Flutter**  
 - 🔹 Bases de datos con **SQLite y PostgreSQL**   
 
-🚀 **Proyectos en curso:**  
-- 💡 Desarrollo de una app educativa para aprender **Lengua de Señas Dominicana** usando Flutter.  
+🚀 **Proyectos en curso**
 - 🎓 Mini-proyectos en C++ para mejorar mi lógica de programación.  
 
 📚 **Áreas de interés:**  
