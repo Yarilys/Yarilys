@@ -1,22 +1,23 @@
-# 👋 ¡Hola, soy @Yarilys!
+# Hi, I'm Yari 👋
 
-📍 **Sobre mí:**  
-Soy una estudiante de **ciberseguridad** y programación con interés en **Bases de datos e inteligencia artificial**. Me encanta aprender mediante la práctica y explorar nuevas tecnologías.  
+Data science & AI student at ITLA (Santo Domingo, Dominican Republic),
+in my final quarters. I'm interested in turning data into useful things,
+especially with Dominican data and local problems.
 
-🎯 **Actualmente aprendiendo:**  
-- 🔹 Programación en **C++**  
-- 🔹 Desarrollo de aplicaciones con **Dart y Flutter**  
-- 🔹 Bases de datos con **SQLite y PostgreSQL**   
+## What I work with
+- **Python**: pandas, NumPy, matplotlib
+- **Machine learning & NLP**: TensorFlow, classic ML models
+- **Data cleaning and analysis**
+- **Search algorithms**: DFS, BFS, A*
+- SQL (learning / refreshing)
 
-🚀 **Proyectos en curso**
-- 🎓 Mini-proyectos en C++ para mejorar mi lógica de programación.  
+## Projects
+- **Public budget execution analysis (2024)**: cleaning, standardizing
+  and analyzing data from 10 Dominican institutions. *(team project)*
+- **LOK**: game logic + search algorithms. *(in progress)*
 
-📚 **Áreas de interés:**  
-- 🔐 **Ciberseguridad** → Hacking ético, OSINT, análisis forense.  
-- 🧠 **Inteligencia Artificial** → Modelos de aprendizaje automático aplicados a apps.  
-- 🌎 **Desarrollo móvil** → Aplicaciones funcionales con UI atractiva.  
+## Currently
+- Finishing my degree and an intensive English program
+- Strengthening my SQL and building projects I can fully explain
 
-🔗 **Conéctate conmigo:**  
-- https://www.linkedin.com/in/yarilys-undefined-34b5b3348/
-
-⚡ **Fun fact:** ¡Soy una orgullosa Ravenclaw! 🦅📖  
+📫 Contact: https://www.linkedin.com/in/yarilys-undefined-34b5b3348/
